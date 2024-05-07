@@ -1,0 +1,39 @@
+img {width: 100px;
+height: 100px;
+border-color: rgb(173,216,230);
+border-width: 4px;
+border-style:Ridge;
+border-radius: 100px;
+  float:right;}
+
+
+body {
+  background-color:cadetblue
+
+}
+
+h1 {
+  color:darkgreen
+
+}
+
+h3{
+  color:darkgreen
+
+}
+
+p {
+  color:darkgreen
+
+}
+
+ul{
+  color:darkgreen
+
+}
+
+h5{
+  color:darkgreen
+    
+
+}
